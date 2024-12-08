@@ -4,7 +4,7 @@ const port = process.env.PORT || 3000;
 
 // Basic route
 app.get('/', (req, res) => {
-    res.send('Hello, World!');
+    res.send('Hello, Nigga!');
 });
 
 // Dynamic route with parameter
